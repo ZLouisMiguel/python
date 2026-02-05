@@ -26,6 +26,12 @@
 
 #variables
 
-test = 123
-test += 50
-print(test + 10)
+# test = 123
+# test += 50
+# print(test + 10)
+
+
+#input 
+user_input  =  input("Write something: ")
+
+print(user_input)
